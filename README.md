@@ -40,4 +40,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
-For questions or further information, please contact your-email@example.com.
+For questions or further information, please contact wissendrust@proton.me
